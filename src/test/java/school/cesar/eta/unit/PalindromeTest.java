@@ -3,6 +3,7 @@ package school.cesar.eta.unit;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
+//Palindrome
 public class PalindromeTest {
 
     private Palindrome palindrome = new Palindrome();
